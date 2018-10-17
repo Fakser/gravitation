@@ -104,6 +104,8 @@ public:
 
 class cluster
 {
+    cluster *next;
+    cluster *previous;
 public:
     block blocks[16][16];
     void create_cluster()
