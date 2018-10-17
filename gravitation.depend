@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1539727505 source:c:\users\user\desktop\gravitation\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"world generator.h"
+	"system.h"
+
+1539766411 c:\users\user\desktop\gravitation\world generator.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"system.h"
+
+1539709339 c:\users\user\desktop\gravitation\system.h
+	<time.h>
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1539728168 c:\users\user\desktop\gravitation\list.h
+
